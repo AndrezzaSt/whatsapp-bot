@@ -10,9 +10,10 @@ class TestBot(unittest.TestCase):
         self.assertEqual(find_Agency.get_place('avenida assis brasil'), 'Agência mais próxima localizada em: Av.Assis Brasil N 3940')
         self.assertEqual(find_Agency.get_place('Berlim'), 'Desculpe, não há agencias perto deste endereço')
         self.assertEqual(find_Agency.get_place(1), 'Input Invalido!')
-
+        ## dado um numero -> Titular do cartao com dados
     def test_find_customer(self): 
         self.assertEqual(find_customer.get_customer('11106'), 'ANDREZZA  Número do cartão: 11106 Tipo: C')
+        self.assertEqual(find_customer.get_customer('11105'), 'MARCIA  Número do cartão: 11105 Tipo: P')
         self.assertEqual(find_customer.get_customer('10000'), 'Cartao não encontrado!')
         self.assertEqual(find_customer.get_customer('numero'), 'Cartao não encontrado!')
 

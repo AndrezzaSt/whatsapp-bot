@@ -3,8 +3,6 @@ import json
 import haversine as hs
 from geopy.geocoders import Nominatim
 import urllib.parse
-#with open ('data.json') as f:
-    #data = json.load(f)
 
 json_str = '''
 {

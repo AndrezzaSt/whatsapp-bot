@@ -21,7 +21,7 @@ def mybot():
         msg.body("Escolha uma das perguntas: ")
         msg.body("a - Quais as diferenças entre cooperativa e banco? b-O que é capital social? c- O que é distribuição de resultados? d- Como posso solicitar minha abertura de conta?")
     
-    if 'hi' in incoming_msg: # qualquer msg
+    if 'hi' in incoming_msg: 
         menu()
         responded = True
     if '1' or '2' or '3' or '4' in incoming_msg:
