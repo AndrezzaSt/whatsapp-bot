@@ -1,0 +1,29 @@
+﻿{
+    "CustomerList": [
+        {
+            "NAME": "MARCIA",
+            "CARD ": "11105",
+            "TYPE": "P"
+        },
+        {
+            "NAME": "ANDREZZA",
+            "CARD ": "11106",
+            "TYPE": "C"
+        },
+        {
+            "NAME": "ALEXANDRE",
+            "CARD ": "11107",
+            "TYPE": "C"
+        },
+        {
+            "NAME": "JONAS",
+            "CARD ": "11108",
+            "TYPE": "P"
+        },
+        {
+            "NAME": "CARLOS",
+            "CARD ": "11109",
+            "TYPE": "C"
+        }
+    ]
+}

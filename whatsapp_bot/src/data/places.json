@@ -1,0 +1,34 @@
+{
+    "Places": [
+        {
+            "STREET": "Av.Protásio Alves",
+            "NUMBER": "795",
+            "LAT": "-3003646",
+            "LONG": "-512009800"
+        },
+        {
+            "STREET": "Av.Assis Brasil",
+            "NUMBER": "3940",
+            "LAT": "-3000798",
+            "LONG": "-5114780"
+        },
+        {
+            "STREET": "R.dos Andradas",
+            "NUMBER": "1107",
+            "LAT": "-3002826",
+            "LONG": "-5123067"
+        },
+        {
+            "STREET": "Av.Eduardo Prado",
+            "NUMBER": "1844",
+            "LAT": "-3013242",
+            "LONG": "-5121818"
+        },
+        {
+            "STREET": "Estr.João de Oliveira Remião",
+            "NUMBER": "4415",
+            "LAT": "-3010309",
+            "LONG": "-5111228"
+        }
+    ]
+}
